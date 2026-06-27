@@ -11,11 +11,15 @@ Practice real-world mini projects
 Improve problem-solving skills
 Learn DOM manipulation and browser APIs
 Build a strong portfolio for web development
+
 📂 Projects Included
 
 Some of the practice projects in this repository:
 
 ✅ To-Do List App
+📄 Random Joke Generator
+🤝 Bank Account with tanscation history
+
 
 
 🛠️ Technologies Used
