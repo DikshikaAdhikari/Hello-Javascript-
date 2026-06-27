@@ -1,6 +1,7 @@
 🚀 JavaScript Practice Projects
 
-This repository contains a collection of small JavaScript projects built for learning and improving core web development skills. Each project focuses on fundamental concepts such as DOM manipulation, event handling, API usage, and logic building.
+This repository contains a collection of small JavaScript projects built for learning and improving core web development skills.
+Each project focuses on fundamental concepts such as DOM manipulation, event handling, API usage, and logic building.
 
 📌 Purpose
 
@@ -23,8 +24,9 @@ Some of the practice projects in this repository:
 
 
 🛠️ Technologies Used
-HTML5
-CSS3
-JavaScript 
-DOM Manipulation
-Local Storage API
+
+- HTML5
+- CSS3
+- JavaScript 
+- DOM Manipulation
+
